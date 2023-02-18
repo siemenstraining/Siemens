@@ -33,6 +33,5 @@ int ITK_user_main(int argc, char** argv)
 
 		printf("\nHello Teamcenter!");
 	}
-
 	return 0;
 }
